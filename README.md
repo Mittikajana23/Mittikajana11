@@ -27,8 +27,8 @@ Mental wellness website for mood tracking, stress management and emotional balan
 ### 🗄️ Employee Management System
 DBMS project using SQL and ER model to manage employees, salary, attendance, departments and projects.
 
-### 📊 Data Analysis in R
-K-Means Clustering, Fibonacci Series, Palindrome Program and more.
+### 📊 Market Price Analysis Of Agricultural Commodities Using R  
+Project using Linear Regression, Decision Tree To analyze and predict agricultural commodities prices and identify relationship between MinPrice, MaxPrice and ModalPrice.  
 
 ---
 
