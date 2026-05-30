@@ -35,10 +35,10 @@ K-Means Clustering, Fibonacci Series, Palindrome Program and more.
 ## 📜 Certifications
 
 ✅ Python Basics  
-✅ SQL Basic
-✅ SQL Intermediate
-✅ Data Science & Analytics
-✅ Problem Solving Basic
+✅ SQL Basic  
+✅ SQL Intermediate  
+✅ Data Science & Analytics  
+✅ Problem Solving Basic  
 
 ---
 
