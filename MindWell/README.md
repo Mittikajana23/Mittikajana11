@@ -24,5 +24,5 @@ This project helped me explore website-based projects while improving my problem
 
 ## Developer
 
-**Mittikajana**
+**Mittika jana**
 Computer Science Student | Python Learner
